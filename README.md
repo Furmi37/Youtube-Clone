@@ -1,6 +1,6 @@
 ## Youtube-Clone
 
-This website was made while I was catching basics informations from HTML and CSS tutorial.
+This website was made while I was catching basics informations about HTML and CSS from tutorial.
 
 ### Technologies:
 - HTML
