@@ -6,6 +6,3 @@ This website was made while I was catching basics informations from HTML and CSS
 - HTML
 - CSS
 - Visual Studio Code
-
-### Requirements:
-- Visual Studio Code
